@@ -10,7 +10,7 @@
 
 Декомпозиция требований для формы оплаты.
 
-![текст](img\test_design_and_test_analytics.jpg)
+![текст](E:\GB\Портфолио QA\img\test_design_and_test_analytics.jpg)
 
 **Обеспечение качества продукта:** 
 
